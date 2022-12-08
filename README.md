@@ -8,4 +8,4 @@ For educational purposes, the project shall begin with the most basic algorithms
 
 ## WEBSITE LINK
 
- https://movie-recommendation-web-app.herokuapp.com/
+https://metlify-movie-recommendation-system.streamlit.app/
